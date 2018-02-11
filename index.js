@@ -1,4 +1,4 @@
-    'use strict';
+'use strict';
 
 const AWS = require('aws-sdk'),
       dynamo = new AWS.DynamoDB.DocumentClient();
